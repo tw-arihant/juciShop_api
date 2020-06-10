@@ -1,1 +1,1 @@
-# juciShop_api
+# jucishop_api
